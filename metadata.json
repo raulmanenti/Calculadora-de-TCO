@@ -1,0 +1,5 @@
+{
+  "name": "TCO Calculator: Fever NEXTEM vs Diesel",
+  "description": "An interactive web application to calculate and compare the Total Cost of Ownership (TCO) between an electric vehicle (Fever NEXTEM FN1000) and a traditional diesel vehicle. Users can adjust parameters like mileage, usage time, and fleet size to see estimated operational costs and savings.",
+  "requestFramePermissions": []
+}
